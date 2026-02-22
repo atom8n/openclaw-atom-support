@@ -1,5 +1,5 @@
 First OpenClaw client support cursor agent CLI inside VSCode/Cursor/Antigravity
-- Developed by the same team of <a href="https://open-vsx.org/extension/atom8n/n8n-atom-v3" target="_blank">n8n Atom 3.0</a>
+- Developed by the same owner of <a href="https://open-vsx.org/extension/atom8n/n8n-atom-v3" target="_blank">n8n Atom 3.0</a>
 - Walkthrough video: <a href="https://www.youtube.com/watch?v=1KgItvryNdA" target="_blank">n8n atom + Antigravity: vibe building workflow (feel like vibe coding)</a>
 - Website: <a href="https://atom8n.com/" target="_blank">www.atom8n.com</a>
 - Download the client extension: <a href="https://open-vsx.org/extension/atom8n/n8n-atom-v3" target="_blank">n8n Atom 3.0</a>
